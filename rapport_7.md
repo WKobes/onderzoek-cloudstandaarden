@@ -52,7 +52,7 @@ De onderzoeksvraag is geformuleerd door het Forum Standaardisatie. Het Forum Sta
 
 Cloudcomputing heeft een scala aan standaarden nodig om interoperabiliteit, veiligheid, privacy en portabiliteit te bevorderen. In het onderzoek wordt onderscheid gemaakt in de volgende soorten cloudstandaarden:
 
-1.  **Beveiligings- en privacystandaarden:** De beveiliginsstandaarden zorgen voor een veilige omgeving die niet toegankelijk is voor onbevoegden. De standaarden hebben betrekking op aspecten zoals data-encryptie, authenticatie, autorisatie en auditlogboekregistratie. Privacystandaarden richten zich op de bescherming van persoonlijke gegevens die worden opgeslagen of verwerkt in de cloud. Hierbij kan gedacht worden aan standaarden die betrekking hebben op gegevensmaskering, anonimisering en pseudonimisering.
+1.  **Beveiligings- en privacystandaarden:** De beveiligingsstandaarden zorgen voor een veilige omgeving die niet toegankelijk is voor onbevoegden. De standaarden hebben betrekking op aspecten zoals data-encryptie, authenticatie, autorisatie en auditlogboekregistratie. Privacystandaarden richten zich op de bescherming van persoonlijke gegevens die worden opgeslagen of verwerkt in de cloud. Hierbij kan gedacht worden aan standaarden die betrekking hebben op gegevensmaskering, anonimisering en pseudonimisering.
 
 2.  **Portabiliteitsstandaarden:** Deze standaarden maken het gemakkelijker om applicaties en gegevens van de ene cloudomgeving naar de andere te verplaatsen. Denk hierbij aan standaarden voor containerization.
 
